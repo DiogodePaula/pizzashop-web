@@ -1,0 +1,26 @@
+adicionar no script um atalho
+configuracao para poder usar os expect beforeAll etc, de forma global sem precisar importar
+
+pnpm add -D vitest
+pnpm vitest -h
+
+
+Testing Library: adiciona um porte para testar componentes
+jest-dom: incrementa a testing library para realizar tests na dom, métodos para verificar propriedades especificas de elementos html
+jsdom: implementação da dom feita com js, simula um html rodando para os tests
+happy-dom: reimplementação do jsdom, muito mais rápida
+
+VITEST
+ele fica rodando quando e chamado e depois so roda os testes que foram alterados
+a: roda todos os testes
+h: comandos
+
+
+NO FRONT TALVEZ SEJA MELHOR UTILIZAR TESTS E2E
+cobre uma porcão maior da aplicação
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+TEST E2E
+
+Playwright

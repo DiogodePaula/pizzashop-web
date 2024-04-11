@@ -1,0 +1,32 @@
+pnpm i tailwindcss postcss autoprefixer -D
+npx tailwindcss init -p
+pnpm i -D @types/node -D
+pnpm dlx shadcn-ui@latest init
+pnpm dlx shadcn-ui@latest add button
+pnpm i prettier-plugin-tailwindcss -D = organiza as classes do tailwindcss
+pnpm i eslint-plugin-simple-import-sort -D = organiza os imports
+pnpm i react-router-dom localforage match-sorter sort-by
+pnpm i react-helmet-async
+pnpm i dlx shadcn-ui@latest add input label
+pnpm dlx shadcn-ui@latest add input
+pnpm i react-hook-form zod @hookform/resolvers
+pnpm i sonner
+pnpm dlx shadcn-ui@latest add separator
+pnpm dlx shadcn-ui@latest add dropdown-menu
+pnpm dlx shadcn-ui@latest add table
+pnpm dlx shadcn-ui@latest add select
+pnpm dlx shadcn-ui@latest add dialog
+pnpm dlx shadcn-ui@latest add card
+pnpm i recharts
+pnpm i axios 
+pnpm i @tanstack/react-query = hooks de requisição, memorização das requisições entre componentes 
+pnpm dlx shadcn-ui@latest add skeleton
+pnpm dlx shadcn-ui@latest add textarea
+pnpm dlx shadcn-ui@latest add calendar
+pnpm add -D vitest
+pnpm i -D @testing-library/react
+pnpm i -D @testing-library/jest-dom
+pnpm i -D happy-dom
+pnpm i -D @testing-library/user-event = permite realizar eventos como clicks, digitação...
+pnpm i -D msw
+pnpm msw init public 

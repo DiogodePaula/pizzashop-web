@@ -1,0 +1,16 @@
+{
+  "_comment": "cada propriedade deste objeto e uma entidade da minha aplicação",
+  "me": {
+    "id": "012c6fbe-0fb3-7cd1-3bdf-ed1d6529763c",
+    "name": "Diogo de Paula",
+    "email": "depaulatrabalhos@gmail.com",
+    "phone": "51998290815",
+    "role": "manager",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-02T00:00:00.000Z"
+  },
+  "managed-restaurant": {
+    "name": "Pizzaria de Paula",
+    "description": "teste"
+  }
+}
